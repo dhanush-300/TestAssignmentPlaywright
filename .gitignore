@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# Playwright
+playwright/.cache/
+
+# Allure
+allure-results/
+allure-report/
+
+# VS Code
+.vscode/
+
+# Docker
+*.log
